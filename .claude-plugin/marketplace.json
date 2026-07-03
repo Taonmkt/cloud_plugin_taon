@@ -1,0 +1,1 @@
+{"name":"taon-marketplace","owner":{"name":"TAON Performance"},"plugins":[{"name":"taon-google-ads","source":"./plugins/taon-google-ads","description":"Kit TAON para análise de Google Ads: termos por intenção, negativas seguras e planilha de diagnóstico."}]}
